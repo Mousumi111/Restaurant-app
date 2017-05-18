@@ -1,0 +1,171 @@
+.header_bg{     
+background: rgba(255, 165, 0, 0.88);
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 999;
+
+}
+
+.icon{}
+.icon i{
+	font-size: 25px;
+    margin-top: 45px;
+	color: white;
+}
+.menu{}
+.menu ul{
+	margin:0;
+	padding:0;
+	list-style:none
+}
+.menu ul li{
+	float:left
+}
+.menu ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 7px 10px;
+    color: white;
+    margin-top: 43px;
+}
+.menu ul li a:hover{
+	border-bottom:2px solid white
+}
+.order{
+	margin-left: 220px;
+}
+.order i{
+	color: white;
+    font-size: 23px;
+    float: left;
+    margin-right: 20px;
+}
+.order h2{
+	color: white;
+}
+.order p{
+	color: white;
+}
+.content_bg{    		    margin-top: 65px;
+    background: rgba(128, 128, 128, 0.08);
+}
+.catagory{
+background: rgba(255, 165, 0, 0.88);
+    height: 700px;
+    border-radius: 0px 5px 5px 0px;
+    box-shadow: 4px -9px 32px #c1c1c1;
+    position: fixed;
+    width: 18%;
+	    margin-top: 57px;
+
+}
+.catagory ul{
+	list-style:none;
+	margin:0;
+	padding:0
+}
+.catagory ul li{}
+.catagory ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 19px;
+    color: white;
+}
+.main_image{    margin-bottom: 159px;
+margin-top: 60px;}
+.image{
+	    width: 750px;
+    height: 350px;
+	box-shadow: 4px -9px 32px #c1c1c1;
+}
+.image img{
+	   width:750px;
+    height: 350px;
+}
+.menu_details{
+    width: 646px;
+    margin-left: 57px;
+    height: 138px;
+    background: white;
+    box-shadow: -2px 5px 17px rgba(128, 128, 128, 0.35);
+    border-radius: 10px;
+    margin-top: -34px;
+    position: absolute;
+}
+.menu_details h3{
+	    color: #feaf1e;
+    font-weight: bold;
+    padding: 1px 17px;
+
+}
+.menu_details i{
+	    color: orange;
+    padding: 6px 1px;
+    margin-left: 15px;
+}
+.menu_details p{
+	    padding: 5px 21px;
+    color: gray;
+    font-weight: bold;
+}
+.round{
+	position: absolute;
+    margin-left: 587px;
+}
+.round i{
+    font-size: 32px;
+    color: orange;
+    background: whitesmoke;
+    padding: 23px 26px;
+    margin-top: -84px;
+    position: absolute;
+    border-radius: 100%;
+    box-shadow: 1px 2px 18px rgba(128, 128, 128, 0.66);
+}
+.round p{
+	    color: orange;
+    font-size: 14px;
+}
+.round h5{
+	    font-size: 21px;
+    font-weight: bold;
+    color: orange;
+    line-height: 4px;
+
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
